@@ -1,0 +1,13 @@
+/*folha de estilos*/
+/*p=paragrafo*/
+
+p{
+	font-family: Verdana;
+	font-size: 14px;
+	color: #c09;
+}
+h1,h2{
+
+	font-family: Arial;
+	color:#06c;
+}

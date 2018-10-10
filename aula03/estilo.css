@@ -1,0 +1,39 @@
+body{
+	font-family:Verdana, cursive, sans-serif;
+	font-size: 14px;
+	color:#444;
+
+}
+
+label{
+	font-weight: bold;
+}
+
+.campo{/*Classe campo*/
+
+	border: solid 1px #777;/* borda sólida, 1px de espessura, cor*/
+	border-radius: 5px;/*cantos arredondados*/
+	padding:5px;/*margem interna*/
+
+}
+
+.botao{
+	font-weight: bold;/*negrito*/
+	padding:10px;/*margem interna*/
+	border-radius: 7px;/*cantos arredondados*/
+	border:none;/*sem bordas*/
+}
+.enviar{
+	background: MediumSeaGreen;
+	color:#444;
+}
+.limpar{
+	background: Tomato;
+	color:#ccc;
+}
+.cores{
+	border-radius: 50px;
+	border:none;
+	background: transparent;
+
+}
